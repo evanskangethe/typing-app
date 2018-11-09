@@ -1,0 +1,16 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #87b2dc;
+}
+
+#app{
+  margin: 20% auto;
+  text-align: center;
+  font-size: 2em;
+  font-weight: 900;
+  font-style: san-serif;
+  text-transform: uppercase;
+}
